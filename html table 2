@@ -1,0 +1,19 @@
+<!Doctype html>
+<html>
+<style>
+    table {border-collapse: collapse; }
+table, th, td {
+    border: 1px solid rgb(10, 10, 10);
+    height: 10px;
+</style>
+<body>
+<table style="width:100%">
+<tr>
+<th style="width:70%"; colspan=3></th>
+</tr>
+<td></td>
+<td></td>
+<td></td>
+</table>
+</body>
+</html>
